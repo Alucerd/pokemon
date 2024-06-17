@@ -1,0 +1,15 @@
+.busquedaPokemon{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.form-select {
+    display: flex;
+    justify-items: center;
+    width: 250px;
+}
+
+button .buttonLink {
+    color: antiquewhite;
+}
